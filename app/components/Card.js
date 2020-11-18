@@ -36,11 +36,11 @@ const styles = StyleSheet.create({
     height: 200,
   },
   title: {
-    marginBottom: 10,
+    marginBottom: 5,
     fontSize: 25,
   },
   subTitle: {
-    color: 'black',
+    color: 'lightblue',
     fontWeight: 'bold',
   },
 });
